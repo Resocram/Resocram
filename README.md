@@ -1,5 +1,6 @@
 ### Nice to meet you! I'm Marco :)
-- 🏫 I'm currently in my 5th year of Computer Engineering at the University of British Columbia
+- 💼 I am currently working as a Software Engineer at Tesla
+- 🏫 I graduated from Computer Engineering at the University of British Columbia
 - 👀 I’m interested in backend development and machine learning
 - 💞️ I’m looking to collaborate on any open-source projects
 - 📫 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/marcoser/)
