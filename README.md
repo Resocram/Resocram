@@ -1,5 +1,5 @@
 ### Nice to meet you! I'm Marco :)
-- 💼 I am currently working as a Software Engineer at Tesla
+- 💼 I am currently working as a Software Engineer at Microsoft
 - 🏫 I graduated from Computer Engineering at the University of British Columbia
 - 👀 I’m interested in backend development and machine learning
 - 💞️ I’m looking to collaborate on any open-source projects
